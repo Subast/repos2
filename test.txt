@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is updated in my laptop. it will conflict with the version on Gitup server.
+=======
+Enter file contents here
+this is another modificatoin.
+>>>>>>> 094d81821f25eddc00f8dea09e001cffe4dd2a60
